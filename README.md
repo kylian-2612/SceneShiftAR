@@ -34,7 +34,7 @@ This Unity-based application allows users to select items from a library and pla
 
 ### Open the Project in Unity:
 
-Launch Unity Hub, and open the AssetPlacementTool project.
+Launch Unity Hub, and open the SceneShiftAR project.
 
 ### Install Dependencies:
 
