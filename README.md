@@ -29,7 +29,7 @@ This Unity-based application allows users to select items from a library and pla
    ```
 2. Navigate to the project directory:
    ```
-   cd AssetPlacementTool
+   cd SceneShiftAR
    ```
 
 ### Open the Project in Unity:
